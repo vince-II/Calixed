@@ -1,19 +1,16 @@
 ### Hi there 👋
+I am an aspiring Software Engineer that is motived driven in learning
+new technologies that can hone my technical and development skill
+set.
 
-<!--
-**Calixed/Calixed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Django Framework
+- Python
+- Java
+- Hibernate
+- Web Design
+- MySQL
+- Spring MVC
 
 - 🔭 I’m currently working on Customer Relationship Management
 - 🌱 I’m currently learning Spring Framework and Hibernate
