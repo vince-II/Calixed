@@ -12,5 +12,5 @@ set.
 - MySQL
 - Spring MVC
 
-- 🔭 I’m currently working on Customer Relationship Management
-- 🌱 I’m currently learning Spring Framework and Hibernate
+- 🔭 I’m currently working simple ruby on rails project
+- 🌱 I’m currently learning typescript and ruby
